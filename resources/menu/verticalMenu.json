@@ -1,0 +1,58 @@
+{
+  "menu": [
+    {
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "submenu": [
+        {
+          "url": "/",
+          "name": "Analytics",
+          "slug": "dashboard-analytics"
+        },
+        {
+          "url": "/dashboard/ecommerce",
+          "name": "eCommerce",
+          "slug": "dashboard-ecommerce"
+        }
+      ]
+    },
+
+
+     {
+      "url": "/admin/members",
+      "name": "Members",
+       "icon": "menu-icon tf-icons bx bx-user",
+      "slug": "courses-list"
+    },
+
+     {
+      "url": "/admin/events",
+      "name": "Events",
+       "icon": "menu-icon tf-icons bx bx-calendar",
+      "slug": "courses-list"
+    },
+
+     {
+      "url": "/admin/event_galleries",
+      "name": "Events Gallery",
+       "icon": "menu-icon tf-icons bx bx-image",
+      "slug": "courses-list"
+    },
+
+      {
+        "url": "/admin/sessions",
+        "name": "Sessions",
+        "icon": "menu-icon tf-icons bx bx-video",
+        "slug": "courses-list"
+      },
+
+      {
+        "url": "/admin/clubs",
+        "name": "Clubs",
+        "icon": "menu-icon tf-icons bx bx-group",
+        "slug": "courses-list"
+      }
+
+  ]
+}

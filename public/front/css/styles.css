@@ -1,0 +1,15 @@
+/* styles.css */
+.post-card {
+  overflow: hidden;
+}
+.post-card img {
+  object-fit: cover;
+  height: 100%;
+}
+.post-card .overlay {
+  background: rgba(0,0,0,0.5);
+}
+.category-badge {
+  top: 10px;
+  left: 10px;
+}
