@@ -86,7 +86,7 @@
           <div class="contact-info d-flex flex-wrap align-items-center">
             <div class="contact-item me-4">
               <a href="tel:+256700000000" class="text-decoration-none">
-                <i class="bi bi-telephone-fill me-2"></i>+256 700 000 000
+                <i class="bi bi-telephone-fill me-2"></i>+256754538317
               </a>
             </div>
             <div class="contact-item me-4">
@@ -199,7 +199,7 @@
           <h5>Contact Us</h5>
           <div class="footer-contact">
             <p><i class="bi bi-geo-alt-fill me-2"></i>Kampala, Uganda</p>
-            <p><i class="bi bi-telephone-fill me-2"></i>+256 700 000 000</p>
+            <p><i class="bi bi-telephone-fill me-2"></i>+256754538317</p>
             <p><i class="bi bi-envelope-fill me-2"></i>info@orpheusug.com</p>
             <p><i class="bi bi-clock-fill me-2"></i>Mon - Sat: 8AM - 6PM</p>
           </div>

@@ -155,7 +155,7 @@
               </div>
               <div class="col-md-6 mb-3">
                 <label class="form-label">Phone Number *</label>
-                <input type="tel" class="form-control" name="phone" placeholder="+256 700 000 000" required>
+                <input type="tel" class="form-control" name="phone" placeholder="+256754538317" required>
               </div>
             </div>
 
