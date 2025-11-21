@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [App\Http\Controllers\front\HomeController::class, 'index']);
 Route::get('/home', [App\Http\Controllers\front\HomeController::class, 'index']);
-Route::get('course-preview', [App\Http\Controllers\front\HomeController::class, 'coursePresentations']);
+Route::get('course-preview', [App\Http\Controllers\front\HomeController::class, 'course_preview']);
 
 
 

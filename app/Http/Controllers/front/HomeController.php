@@ -14,4 +14,11 @@ class HomeController extends Controller
     return view('front.home');
   }
 
+  public function course_preview(Request $request)
+  {
+
+    return view('front.course-preview');
+
+  }
+
 }

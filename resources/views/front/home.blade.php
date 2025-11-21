@@ -266,7 +266,7 @@
             <span class="course-category">Music Production</span>
             <h4>Beat-Making & Music Production</h4>
             <p>Master FL Studio, Logic, Ableton. Learn sound design, drum programming, and producer branding.</p>
-            <a href="" class="course-link">Learn More <i class="bi bi-arrow-right"></i></a>
+            <a href="{{url('course-preview')}}" class="course-link">Learn More <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
 
